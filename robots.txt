@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ardus-world.github.io/sitemap.xml
