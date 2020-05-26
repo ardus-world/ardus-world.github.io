@@ -7,7 +7,5 @@ compile_sass = true
 highlight_code = false
 build_search_index = true
 
-theme = "book"
-
 [extra]
-book_numbered_chapters = false
+book_number_chapters = false
