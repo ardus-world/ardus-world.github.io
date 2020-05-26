@@ -1,18 +1,21 @@
 +++
 title = "Introduction"
-weight = 1
-sort_by = "weight"
+date = 2019-11-27
 insert_anchor_links = "right"
 +++
-
-# Introduction
 
 The continent of Ardus is a Campaign setting for Dungeons & Dragons 5th Edition.
 
 I aim to use this as a searchable wiki of information about the setting as I build it up, so that both myself and other players can use it as a resource when creating characters, adventurers, and campaigns.
 
-> Ardus is a land of sword and sorcery, where adventurers seek out their glory and their fortune, where kingdoms rise and fall, where powerful individuals strive to impact the world...
+---
 
+What makes Ardus unique?
+> Ardus is a land where humans are not the dominant race.
+> The main continent is primarily ruled by a Goblin Eempire, with some areas under the control of a variety of Elves, a collection of Dwarf holds, and a lone Dragonborn Citadel. 
+> Humans are scattered in settlements throughout the world, including a few independent city states that have the strength to hold against the Goblin power.
+
+---
 
 ## Goblinoid Empire - Goblins, Hobgoblins, Bugbears
 Most of the continent is ruled by an imperial empire of goblinoids, ruled by

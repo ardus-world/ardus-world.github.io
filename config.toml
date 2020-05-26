@@ -1,4 +1,4 @@
-base_url = "https://ardus.cargill.ie"
+base_url = "https://ardus-world-github.io"
 
 title = "Ardus"
 Description = """A campaign setting for D&D 5e"""
@@ -8,4 +8,3 @@ highlight_code = false
 build_search_index = true
 
 [extra]
-book_number_chapters = false
